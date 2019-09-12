@@ -1,0 +1,10 @@
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\bin\Release\BAT_Export.dll
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\bin\Release\BAT_Export.pdb
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\bin\Release\Newtonsoft.Json.dll
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.csprojAssemblyReference.cache
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.ParameterFilter.resources
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.csproj.GenerateResource.cache
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.csproj.CoreCompileInputs.cache
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.csproj.CopyComplete
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.dll
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Release\BAT_Export.pdb

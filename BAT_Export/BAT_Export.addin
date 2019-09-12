@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command BAT_Export</Text>
+    <Description>Simplify Revit Geometry</Description>
+    <Assembly>BAT_Export.dll</Assembly>
+    <FullClassName>BAT_Export.Command</FullClassName>
+    <ClientId>d8195c8b-4319-4794-a4e6-4c110f4eb4d5</ClientId>
+    <VendorId>www.batgreenbuild.com</VendorId>
+    <VendorDescription>BAT GREEN BUILD, www.batgreenbuild.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application BAT_Export</Name>
+    <Assembly>BAT_Export.dll</Assembly>
+    <FullClassName>BAT_Export.App</FullClassName>
+    <ClientId>cdf839db-a0a8-410a-9f7d-75debf0ec76f</ClientId>
+    <VendorId>www.batgreenbuild.com</VendorId>
+    <VendorDescription>BAT GREEN BUILD, www.batgreenbuild.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,12 @@
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\bin\Debug\BAT_Export.dll
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\bin\Debug\BAT_Export.pdb
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\bin\Debug\Newtonsoft.Json.dll
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.ParameterFilter.resources
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.csproj.GenerateResource.cache
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.csproj.CoreCompileInputs.cache
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.csproj.CopyComplete
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.dll
+c:\users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.pdb
+C:\Users\2016028\source\repos\BAT_Export\BAT_Export\obj\Debug\BAT_Export.csprojAssemblyReference.cache
+C:\Users\2016028\source\repos\BAT_Export\BAT_Export\bin\Debug\FBXWrapper.dll
+C:\Users\2016028\source\repos\BAT_Export\BAT_Export\bin\Debug\FBXWrapper.pdb
