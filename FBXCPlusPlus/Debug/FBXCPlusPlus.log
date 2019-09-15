@@ -1,5 +1,0 @@
-﻿  Exporter.cpp
-c:\users\2016028\source\repos\bat_export\fbxcplusplus\exporter.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
-  FBXCPlusPlus.cpp
-c:\users\2016028\source\repos\bat_export\fbxcplusplus\fbxcplusplus.cpp(23): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
-  Generating Code...
